@@ -1,2 +1,2 @@
 # DriveTeqDrivingExperiences-repo
-Database creation and manipulatiopn repo
+Database creation and manipulation repository
